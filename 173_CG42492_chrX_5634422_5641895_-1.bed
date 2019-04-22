@@ -1,0 +1,7 @@
+browser position chrX:5634422-5641895
+track name="173_chrX_5640917_5640980_exon1(-)" visibility=full itemRgb=On color=63,51,114 
+chrX	5640917	5640980	173_chrX_5640917_5640980_exon1(-)	0	-	5640917	5640980	63,51,114
+track name="173_chrX_5641522_5641561_exon2(-)" visibility=full itemRgb=On color=126,103,75 
+chrX	5641522	5641561	173_chrX_5641522_5641561_exon2(-)	0	-	5641522	5641561	126,103,75
+track name="173_chrX_5635355_5635466_exon3(-)" visibility=full itemRgb=On color=189,155,36 
+chrX	5635355	5635466	173_chrX_5635355_5635466_exon3(-)	0	-	5635355	5635466	189,155,36

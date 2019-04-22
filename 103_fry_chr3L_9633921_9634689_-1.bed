@@ -1,0 +1,5 @@
+browser position chr3L:9633921-9634689
+track name="103_chr3L_9634403_9634433_exon1(-)" visibility=full itemRgb=On color=84,68,51 
+chr3L	9634403	9634433	103_chr3L_9634403_9634433_exon1(-)	0	-	9634403	9634433	84,68,51
+track name="103_chr3L_9634021_9634069_exon2(-)" visibility=full itemRgb=On color=168,137,102 
+chr3L	9634021	9634069	103_chr3L_9634021_9634069_exon2(-)	0	-	9634021	9634069	168,137,102

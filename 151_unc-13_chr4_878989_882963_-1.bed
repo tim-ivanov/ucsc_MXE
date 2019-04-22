@@ -1,0 +1,5 @@
+browser position chr4:878989-882963
+track name="151_chr4_881842_881949_exon1(-)" visibility=full itemRgb=On color=84,68,51 
+chr4	881842	881949	151_chr4_881842_881949_exon1(-)	0	-	881842	881949	84,68,51
+track name="151_chr4_882616_882723_exon2(-)" visibility=full itemRgb=On color=168,137,102 
+chr4	882616	882723	151_chr4_882616_882723_exon2(-)	0	-	882616	882723	168,137,102

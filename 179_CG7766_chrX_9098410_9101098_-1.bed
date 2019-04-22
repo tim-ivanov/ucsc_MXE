@@ -1,0 +1,5 @@
+browser position chrX:9098410-9101098
+track name="179_chrX_9099313_9099461_exon1(-)" visibility=full itemRgb=On color=84,68,51 
+chrX	9099313	9099461	179_chrX_9099313_9099461_exon1(-)	0	-	9099313	9099461	84,68,51
+track name="179_chrX_9100512_9100657_exon2(-)" visibility=full itemRgb=On color=168,137,102 
+chrX	9100512	9100657	179_chrX_9100512_9100657_exon2(-)	0	-	9100512	9100657	168,137,102
