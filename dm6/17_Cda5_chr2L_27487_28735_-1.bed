@@ -1,0 +1,7 @@
+browser position chr2L:27487-28735
+track name="17_chr2L_28014_28240_exon1(-)" visibility=full itemRgb=On color=84,68,51 
+chr2L	28014	28240	17_chr2L_28014_28240_exon1(-)	0	-	28014	28240	84,68,51
+chr2L	28410	28639	17_chr2L_28014_28240_exon1(-)	0	-	28410	28639	84,68,51
+track name="17_chr2L_28410_28639_exon2(-)" visibility=full itemRgb=On color=168,137,102 
+chr2L	28410	28639	17_chr2L_28410_28639_exon2(-)	0	-	28410	28639	168,137,102
+chr2L	28014	28240	17_chr2L_28410_28639_exon2(-)	0	-	28014	28240	168,137,102

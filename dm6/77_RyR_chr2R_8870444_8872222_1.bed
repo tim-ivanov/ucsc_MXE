@@ -1,0 +1,5 @@
+browser position chr2R:8870444-8872222
+track name="77_chr2R_8870582_8870682_exon1(+)" visibility=full itemRgb=On color=84,68,51 
+chr2R	8870582	8870682	77_chr2R_8870582_8870682_exon1(+)	0	+	8870582	8870682	84,68,51
+track name="77_chr2R_8870923_8871023_exon2(+)" visibility=full itemRgb=On color=168,137,102 
+chr2R	8870923	8871023	77_chr2R_8870923_8871023_exon2(+)	0	+	8870923	8871023	168,137,102
